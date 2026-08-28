@@ -1,0 +1,1 @@
+INFO     tests.conftest:conftest.py:289 MongoDB connection closed
